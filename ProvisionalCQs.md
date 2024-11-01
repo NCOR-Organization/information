@@ -132,3 +132,7 @@
 1. an additional request for supplementary charts was fulfilled within the same week.
 2. a follow-up request for more detailed data was not addressed in the initial delivery.
 # information
+
+#### 6. PROV-O
+The Provenance ontology (PROV-O) is a W3C standard based upon the PROV data model that enables users to encode information about provenance - the history of ownership, permissions, and responsibilities with regards to all manner of entities. As a widely-used standard, PROV-O is important in the modeling of this kind of information to many institutions, and it would be a virtue of an ontology of information to be able to express information about provenance in a way that can be mapped into PROV-O. At the very least, an information ontology should be able to answer questions that users might have about the provenance of information entities such as documents, directives, and plans.
+     
